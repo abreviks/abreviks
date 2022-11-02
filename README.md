@@ -11,6 +11,7 @@ fields_of_interests:
     "DevSecOps",
     "Cloud Security Posture Management",
   ]
+
 certifications_and_technical_background:
   [
     "CISSP",
