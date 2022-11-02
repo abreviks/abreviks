@@ -4,5 +4,6 @@ x = input("Input: ")
 y = len(x)
 z = str(y)
 print("Number of characters:" + z)
+print("Have a nice day!")
 
 
