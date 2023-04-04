@@ -7,7 +7,7 @@ company: Vivino
 fields_of_interests:
   [
     "All things information security",
-    "Securing modern cloud-first and hybrid organizations using a structured approach to security",
+    "Securng modern cloud-first and hybrid organizations using a structured approach to security",
     "DevSecOps",
     "Cloud Security Posture Management",
   ]
@@ -21,5 +21,5 @@ certifications_and_technical_background:
     "Former CNA",
   ]
   
-working_with: ["AWS, Docker, Kubernetes, Git, Orca, "]
+working_with: ["CIS Controls, Cloud Security Alliance Best Practices, AWS, Docker, Kubernetes, Github, Jenkins, Orca"]
 ```
